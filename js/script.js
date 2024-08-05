@@ -1,4 +1,4 @@
-document.getElementById('contact-form').addEventListener('submit', function(event) {
+gitdocument.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault();
 
     // Get the form data
